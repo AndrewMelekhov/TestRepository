@@ -7,6 +7,7 @@ root.title("Методы eval  и exec")
 win1 = Frame(root)
 win1.pack(anchor = "n", expand = YES, fill = X)
 
+
 lx = Label(win1, text = "x = ")
 lx.pack(side=LEFT, padx=10, pady=10)
 
